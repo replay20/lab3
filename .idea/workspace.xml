@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf067d95-1170-41dd-b977-521b23c4883a" name="Changes" comment="Pierwszy commit">
-      <change afterPath="$PROJECT_DIR$/Zad2.py" afterDir="false" />
+    <list default="true" id="bf067d95-1170-41dd-b977-521b23c4883a" name="Changes" comment="Zad2 gotowe">
+      <change afterPath="$PROJECT_DIR$/Zad3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -90,11 +90,20 @@
       <option name="project" value="LOCAL" />
       <updated>1710063091149</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Zad2 gotowe">
+      <option name="closed" value="true" />
+      <created>1710064941946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710064941946</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pierwszy commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pierwszy commit" />
+    <MESSAGE value="Zad2 gotowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zad2 gotowe" />
   </component>
 </project>
